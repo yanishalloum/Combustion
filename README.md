@@ -1,4 +1,4 @@
-# 🌀 Gas Turbine Combustion Analysis — Fuel Flexibility & Autoignition Study  
+# Gas Turbine Combustion Analysis — Fuel Flexibility & Autoignition Study  
 
 ## Overview  
 This project investigates **autoignition behavior and fuel-flexibility challenges** in Dry Low Emissions (DLE) gas turbines. It is based on two realistic engineering scenarios:  
